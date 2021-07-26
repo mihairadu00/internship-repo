@@ -5,6 +5,8 @@ using MusicStore_API.Middleware.Auth;
 using MusicStore_API.Models;
 using MusicStore_Common.Entities;
 using MusicStore_Interfaces;
+using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace MusicStore_API.Controllers
@@ -91,6 +93,23 @@ namespace MusicStore_API.Controllers
                 response = Ok(addedUser);
 
             return response;
+
+        }
+
+        [HttpGet]
+        [Authorize(Policy = Policies.Admin)]
+        [Produces("application/json")]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(typeof(List<User>), StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status401Unauthorized)]
+        public async Task<IActionResult> GetAsync()
+        {
+
+            var results = await _userService.GetAsync();
+            if (!results.Any())
+                return NoContent();
+
+            return Ok(results);
 
         }
 
