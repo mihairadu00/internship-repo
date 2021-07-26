@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\EntityFramework2\\MusicStore_API\\MusicStore_DataPersistence\\MusicStore_DataPersistence.csproj": {}
+    "D:\\SourceControl\\internship-repo\\MusicStore_DataPersistence\\MusicStore_DataPersistence.csproj": {}
   },
   "projects": {
-    "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Common\\MusicStore_Common.csproj": {
+    "D:\\SourceControl\\internship-repo\\MusicStore_Common\\MusicStore_Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Common\\MusicStore_Common.csproj",
+        "projectUniqueName": "D:\\SourceControl\\internship-repo\\MusicStore_Common\\MusicStore_Common.csproj",
         "projectName": "MusicStore_Common",
-        "projectPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Common\\MusicStore_Common.csproj",
+        "projectPath": "D:\\SourceControl\\internship-repo\\MusicStore_Common\\MusicStore_Common.csproj",
         "packagesPath": "C:\\Users\\mihai.radu\\.nuget\\packages\\",
-        "outputPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Common\\obj\\",
+        "outputPath": "D:\\SourceControl\\internship-repo\\MusicStore_Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mihai.radu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "D:\\EntityFramework2\\MusicStore_API\\MusicStore_DataPersistence\\MusicStore_DataPersistence.csproj": {
+    "D:\\SourceControl\\internship-repo\\MusicStore_DataPersistence\\MusicStore_DataPersistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_DataPersistence\\MusicStore_DataPersistence.csproj",
+        "projectUniqueName": "D:\\SourceControl\\internship-repo\\MusicStore_DataPersistence\\MusicStore_DataPersistence.csproj",
         "projectName": "MusicStore_DataPersistence",
-        "projectPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_DataPersistence\\MusicStore_DataPersistence.csproj",
+        "projectPath": "D:\\SourceControl\\internship-repo\\MusicStore_DataPersistence\\MusicStore_DataPersistence.csproj",
         "packagesPath": "C:\\Users\\mihai.radu\\.nuget\\packages\\",
-        "outputPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_DataPersistence\\obj\\",
+        "outputPath": "D:\\SourceControl\\internship-repo\\MusicStore_DataPersistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mihai.radu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,11 +82,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Common\\MusicStore_Common.csproj": {
-                "projectPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Common\\MusicStore_Common.csproj"
+              "D:\\SourceControl\\internship-repo\\MusicStore_Common\\MusicStore_Common.csproj": {
+                "projectPath": "D:\\SourceControl\\internship-repo\\MusicStore_Common\\MusicStore_Common.csproj"
               },
-              "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj": {
-                "projectPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj"
+              "D:\\SourceControl\\internship-repo\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj": {
+                "projectPath": "D:\\SourceControl\\internship-repo\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj"
               }
             }
           }
@@ -131,14 +131,14 @@
         }
       }
     },
-    "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj": {
+    "D:\\SourceControl\\internship-repo\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj",
+        "projectUniqueName": "D:\\SourceControl\\internship-repo\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj",
         "projectName": "MusicStore_Interfaces",
-        "projectPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj",
+        "projectPath": "D:\\SourceControl\\internship-repo\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj",
         "packagesPath": "C:\\Users\\mihai.radu\\.nuget\\packages\\",
-        "outputPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Interfaces\\obj\\",
+        "outputPath": "D:\\SourceControl\\internship-repo\\MusicStore_Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mihai.radu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -155,8 +155,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Common\\MusicStore_Common.csproj": {
-                "projectPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Common\\MusicStore_Common.csproj"
+              "D:\\SourceControl\\internship-repo\\MusicStore_Common\\MusicStore_Common.csproj": {
+                "projectPath": "D:\\SourceControl\\internship-repo\\MusicStore_Common\\MusicStore_Common.csproj"
               }
             }
           }

@@ -39,5 +39,6 @@ namespace MusicStore_Interfaces
         /// <returns></returns>
         Task<User> GetUserByUsername(string username);
 
+        Task<List<User>> GetAsync();
     }
 }

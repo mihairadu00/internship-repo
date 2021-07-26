@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Common\\MusicStore_Common.csproj",
+      "projectUniqueName": "D:\\SourceControl\\internship-repo\\MusicStore_Common\\MusicStore_Common.csproj",
       "projectName": "MusicStore_Common",
-      "projectPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Common\\MusicStore_Common.csproj",
+      "projectPath": "D:\\SourceControl\\internship-repo\\MusicStore_Common\\MusicStore_Common.csproj",
       "packagesPath": "C:\\Users\\mihai.radu\\.nuget\\packages\\",
-      "outputPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Common\\obj\\",
+      "outputPath": "D:\\SourceControl\\internship-repo\\MusicStore_Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mihai.radu\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -38,5 +38,6 @@ namespace MusicStore_Interfaces
         /// <returns></returns>
         Task<string> GetUsersSaltByUsernameAsync(string username);
 
+        Task<List<User>> GetAsync();
     }
 }

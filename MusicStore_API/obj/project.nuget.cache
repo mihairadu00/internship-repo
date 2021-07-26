@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YIDJ7f4jGw6KmKqSFn3gmATOXxJ2eJSC7bt6YHdaaqtDMXwOOJrPiYMDffHD6vPddZ3NAChiIp2wRb19QH8kRw==",
+  "dgSpecHash": "IU8nLiJVuvpMOmIR58xD7wyoZECCszSD71lLv32h58ZcJmk6ML+ESVYk5Aeym74VDTeKKLzeCivxYnwVno9e7A==",
   "success": true,
-  "projectFilePath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_API\\MusicStore_API.csproj",
+  "projectFilePath": "D:\\SourceControl\\internship-repo\\MusicStore_API\\MusicStore_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mihai.radu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mihai.radu\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.8\\microsoft.aspnetcore.authentication.jwtbearer.5.0.8.nupkg.sha512",

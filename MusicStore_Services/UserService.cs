@@ -158,5 +158,9 @@ namespace MusicStore_Services
 
         }
 
+        public async Task<List<User>> GetAsync()
+        {
+            return await _userRepository.GetAsync(); ;
+        }
     }
 }
