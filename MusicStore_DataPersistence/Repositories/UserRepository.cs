@@ -51,6 +51,16 @@ namespace MusicStore_DataPersistence.Repositories
                 .SingleOrDefaultAsync(x => x.Username == username && x.PasswordHash == hashedPassword);
         }
 
+        public async Task<List<User>> GetAsync()
+        {
+
+            var result = await _context.Users
+                           .ToListAsync();
+
+            return result;
+
+        }
+
         /// <summary>
         /// Returns the user havin the coresponding username
         /// </summary>

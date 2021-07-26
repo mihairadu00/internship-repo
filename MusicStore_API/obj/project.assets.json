@@ -5743,11 +5743,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_API\\MusicStore_API.csproj",
+      "projectUniqueName": "D:\\SourceControl\\internship-repo\\MusicStore_API\\MusicStore_API.csproj",
       "projectName": "MusicStore_API",
-      "projectPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_API\\MusicStore_API.csproj",
+      "projectPath": "D:\\SourceControl\\internship-repo\\MusicStore_API\\MusicStore_API.csproj",
       "packagesPath": "C:\\Users\\mihai.radu\\.nuget\\packages\\",
-      "outputPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_API\\obj\\",
+      "outputPath": "D:\\SourceControl\\internship-repo\\MusicStore_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mihai.radu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5764,14 +5764,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\EntityFramework2\\MusicStore_API\\MusicStore_DataPersistence\\MusicStore_DataPersistence.csproj": {
-              "projectPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_DataPersistence\\MusicStore_DataPersistence.csproj"
+            "D:\\SourceControl\\internship-repo\\MusicStore_DataPersistence\\MusicStore_DataPersistence.csproj": {
+              "projectPath": "D:\\SourceControl\\internship-repo\\MusicStore_DataPersistence\\MusicStore_DataPersistence.csproj"
             },
-            "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj": {
-              "projectPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj"
+            "D:\\SourceControl\\internship-repo\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj": {
+              "projectPath": "D:\\SourceControl\\internship-repo\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj"
             },
-            "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Services\\MusicStore_Services.csproj": {
-              "projectPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Services\\MusicStore_Services.csproj"
+            "D:\\SourceControl\\internship-repo\\MusicStore_Services\\MusicStore_Services.csproj": {
+              "projectPath": "D:\\SourceControl\\internship-repo\\MusicStore_Services\\MusicStore_Services.csproj"
             }
           }
         }

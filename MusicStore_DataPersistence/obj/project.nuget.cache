@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sRt+EN9oAoZ5sT/ukn23bW2zcjUU30PUwyA7pNZ3A6LwLwBvxR+b3NFofptn8OuTrKWRCIqJQHvJUM3Fp1LRyA==",
+  "dgSpecHash": "Yb+1yBFOfca7/5WD8xW+X3q64HHb7yxuNQEBk4zMzlayb3BwSQn4/kjk8xuBGsJLTcK1nU/1h1sydG0IhvVBPQ==",
   "success": true,
-  "projectFilePath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_DataPersistence\\MusicStore_DataPersistence.csproj",
+  "projectFilePath": "D:\\SourceControl\\internship-repo\\MusicStore_DataPersistence\\MusicStore_DataPersistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mihai.radu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mihai.radu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
