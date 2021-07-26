@@ -13,7 +13,7 @@ namespace MusicStore_API.Controllers
     /// <summary>
     /// Authentication for users
     /// </summary>
-    [Route("login")]
+    [Route("user")]
     [ApiController]
     public class LoginController : ControllerBase
     {
@@ -31,6 +31,7 @@ namespace MusicStore_API.Controllers
         /// <param name="login"></param>
         /// <returns></returns>
         [HttpPost]
+        [Route("login")]
         [AllowAnonymous]
         [Produces("application/json")]
         public async Task<IActionResult> Login([FromBody] AuthenticationRequest login)

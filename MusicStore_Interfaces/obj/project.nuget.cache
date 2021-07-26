@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rZcuLI90SvVfCINcjC6jToZNKh6fJfBgNHmpNSzhUJrqdUL5CMD2Bh70wcFYb2bTkSS52m1wbdfEfQT527tofA==",
+  "dgSpecHash": "HfjGIPmemIPbymK+QjOu8TKBDXnYqvY6GbRAn33b0NciBGkg9FBpj9cyoHSIorwO/NOw3BrupD9oIRZ7DqmQyg==",
   "success": true,
-  "projectFilePath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj",
+  "projectFilePath": "D:\\SourceControl\\internship-repo\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
