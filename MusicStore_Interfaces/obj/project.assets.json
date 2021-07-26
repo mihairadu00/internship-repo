@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MusicStore_Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MusicStore_Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MusicStore_Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MusicStore_Common/1.0.0": {
+      "type": "project",
+      "path": "../MusicStore_Common/MusicStore_Common.csproj",
+      "msbuildProject": "../MusicStore_Common/MusicStore_Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MusicStore_Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mihai.radu\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj",
+      "projectName": "MusicStore_Interfaces",
+      "projectPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj",
+      "packagesPath": "C:\\Users\\mihai.radu\\.nuget\\packages\\",
+      "outputPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Interfaces\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mihai.radu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Common\\MusicStore_Common.csproj": {
+              "projectPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Common\\MusicStore_Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

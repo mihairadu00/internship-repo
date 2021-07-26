@@ -1,0 +1,192 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Services\\MusicStore_Services.csproj": {}
+  },
+  "projects": {
+    "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Common\\MusicStore_Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Common\\MusicStore_Common.csproj",
+        "projectName": "MusicStore_Common",
+        "projectPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Common\\MusicStore_Common.csproj",
+        "packagesPath": "C:\\Users\\mihai.radu\\.nuget\\packages\\",
+        "outputPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mihai.radu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj",
+        "projectName": "MusicStore_Interfaces",
+        "projectPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj",
+        "packagesPath": "C:\\Users\\mihai.radu\\.nuget\\packages\\",
+        "outputPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mihai.radu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Common\\MusicStore_Common.csproj": {
+                "projectPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Common\\MusicStore_Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Services\\MusicStore_Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Services\\MusicStore_Services.csproj",
+        "projectName": "MusicStore_Services",
+        "projectPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Services\\MusicStore_Services.csproj",
+        "packagesPath": "C:\\Users\\mihai.radu\\.nuget\\packages\\",
+        "outputPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mihai.radu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj": {
+                "projectPath": "D:\\EntityFramework2\\MusicStore_API\\MusicStore_Interfaces\\MusicStore_Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.11.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
