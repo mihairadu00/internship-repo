@@ -13,7 +13,7 @@ namespace MusicStore_API.Controllers
     /// <summary>
     /// Authentication for users
     /// </summary>
-    [Route("login")]
+    [Route("login1")]
     [ApiController]
     public class LoginController : ControllerBase
     {
